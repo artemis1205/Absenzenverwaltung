@@ -1,4 +1,4 @@
-# Absenzenverwaltung sheeeesh
+# Absenzenverwaltung 
 
 ## Eine Arbeit für den Unterricht an der IMS
 
