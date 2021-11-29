@@ -1,3 +1,4 @@
+<!-- Copyright © Clemens Frei 2021. All rights reserved. -->
 <html>
 
 <head>
